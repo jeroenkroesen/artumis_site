@@ -3,6 +3,4 @@ title: Artumis
 ---
 
 # Artumis
-This will be the site for Artumis. It is under construction. Planned to go live: **Monday, March 31**.
-
-Stay tuned.
+Artumis is your second brain. It amplifies your creativity and gives you laser sharp focus.
