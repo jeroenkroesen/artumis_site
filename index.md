@@ -4,12 +4,12 @@ title: Artumis
 
 # Artumis
 Artumis is your second brain. It amplifies your creativity and gives you laser sharp focus.  
-***
+---
 
 ## First Release of Artumis on Joplin
 Version 20250330_001 of Artumis on Joplin has just been released.
 [Download Artumis on Joplin 20253003_001](https://jeroenkroesen.github.io/artumis_site/artumis_in_joplin/releases/artumis_in_joplin_20250330_001.zip)  
-***
+---
 
 ## Installation
 A detailed guide to installing will follow soon. The basic steps are:
