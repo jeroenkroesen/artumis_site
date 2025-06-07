@@ -1,6 +1,7 @@
 name: Artumis
 title: Artumis
 description: Second Brain
+theme: null
 include: 
     - /_resources
 
