@@ -2,8 +2,7 @@
 title: Artumis
 ---
 
-![Logo](./_resources/artumis_logo_darkmode.png)    
-  
-Your creativity - *laser focused & amplified*    
+![Logo](./_resources/artumis_logo_darkmode.png) 
+Artumis is a modern ***second brain***: an app and a way of writing that naturally extends your brain and gives your mind superpowers.
   
 [Experience Artumis on Joplin](./artumis_on_joplin/home.md)
