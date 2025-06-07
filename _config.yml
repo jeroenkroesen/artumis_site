@@ -1,6 +1,10 @@
 name: Artumis
 title: Artumis
 description: Second Brain
-theme: jekyll-theme-cayman
 include: 
     - /_resources
+
+# Build settings
+sass:
+  sass_dir: _sass
+  style: compressed

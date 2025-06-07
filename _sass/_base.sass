@@ -1,0 +1,54 @@
+// Import variables first
+@import "variables"
+
+// --- Reset and Body ---
+*
+  box-sizing: border-box
+
+body
+  background-color: $body-background-color
+  color: $text-color
+  font-family: $font-family-sans-serif
+  line-height: 1.6
+  margin: 0
+  padding: 0
+
+// --- Typography ---
+h1, h2, h3, h4, h5, h6
+  color: $heading-color
+  font-weight: 600
+  margin-top: 1.5em
+  margin-bottom: 0.5em
+
+p
+  margin-bottom: 1em
+
+// --- Links and Buttons ---
+a
+  color: $link-color
+  text-decoration: none
+  transition: color 0.2s ease-in-out
+
+  &:hover
+    color: $link-hover-color
+    text-decoration: underline
+
+// --- Code Blocks ---
+pre, code
+  background-color: $mantle
+  border: 1px solid $overlay2
+  border-radius: 6px
+  font-family: $font-family-monospace
+  padding: 0.2em 0.4em
+
+pre
+  padding: 1em
+  overflow-x: auto
+
+// --- Blockquotes ---
+blockquote
+  border-left: 3px solid $blue
+  color: $subtext0
+  margin-left: 0
+  padding-left: 1.5em
+  font-style: italic
