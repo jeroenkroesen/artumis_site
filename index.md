@@ -2,11 +2,8 @@
 title: Artumis
 ---
 
-![Logo](./_resources/elegant_owl_side_dark_transparent_logo_only.png)    
+![Logo](./_resources/artumis_logo_darkmode.png)    
   
-Your creativity - *laser focused & amplified*  
-
----
-  
+Your creativity - *laser focused & amplified*    
   
 [Experience Artumis on Joplin](./artumis_on_joplin/home.md)
