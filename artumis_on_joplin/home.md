@@ -3,7 +3,7 @@ title: Artumis on Joplin
 ---
 
 # Artumis on Joplin
-Logo  
+[Logo](../_resources/elegant_owl_side_light_transparent_logo_only.png) 
   
 Your creativity - *laser focused & amplified*  
   
