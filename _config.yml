@@ -2,6 +2,10 @@ name: Artumis
 title: Artumis
 description: Second Brain
 theme: null
+
+plugins:
+  - jekyll-seo-tag
+
 include: 
     - /_resources
 
