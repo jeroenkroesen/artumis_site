@@ -13,7 +13,7 @@ This is step 2 in [setting up your Artumis second brain](./install_guide_artumis
 
 
 ## Create and open the profile directory
-To make sure Joplin creates its profile folder, start the app once. Then click `Help` -> `Open profile directory`. Keep the profile directory open in your file manager.
+To make sure Joplin creates its profile folder, start the app once. Then click `Help` -> `Open profile directory`. Keep the profile directory open in your file manager.  
 ![Open profile directory](../_resources/52.png)
 
 Now close Joplin. Make sure Joplin is completely closed and not just minimized to the system tray. If you see a system tray icon of Joplin, right click it and select `Quit`. Alternatively close Joplin by pressing `Ctrl`+`q`.  
